@@ -7,5 +7,5 @@ I obtained my PhD at the University of Trieste in March 2026, with a thesis titl
  *[Complexity, Computability, and Cryptography with Reaction Systems](https://arts.units.it/handle/11368/3128000)* <br>
  under the supervision of [Luca Manzoni](https://scholar.google.com/citations?hl=en&user=ufJKQegAAAAJ) and [Giulia Bernardini](https://sites.google.com/view/giulia-bernardini/home-page).
 
-My research focus on studying natural computing models from a theoretical point of view, discrete dynamical systems and<br>
-fine-grained complexity applied to strings algorithms.
+My research focuses on studying natural computing models from a theoretical point of view, discrete dynamical systems and<br>
+fine-grained complexity applied to string algorithms.
